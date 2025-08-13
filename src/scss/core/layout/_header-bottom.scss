@@ -1,7 +1,6 @@
 $component-name: header-bottom;
 
 .#{$component-name} {
-  padding: 20px 0;
   &__row {
     @include media-breakpoint-up(md) {
       min-height: 4rem;

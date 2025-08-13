@@ -4,7 +4,7 @@ $component-name: header-bottom;
   --header-top-border-bottom: #{$header-top-border-bottom};
   --header-bottom-border-bottom: #{$header-bottom-border-bottom};
 
-  padding: 0;
+  padding: 20px 0;
   border-bottom: var(--header-bottom-border-bottom);
 
   .navbar-brand {
